@@ -1,6 +1,10 @@
 # Refining-dual-RNA-seq-mapping
 **Title:** Refining dual RNA-seq mapping: sequential and combined approaches in host-parasitic plant dynamics
 
+
+![pipeline](https://github.com/user-attachments/assets/2d6c2500-47c3-437f-8758-ebb54edba68f)
+
+
 **Summary:**  
 This study evaluates the application of dual RNA-seq to investigate the interactions between host and parasitic plants. Two mapping approaches are compared:
 - **Sequential Approach:** Reads are mapped in two steps, first to the host genome and then to the parasite genome (or vice versa).
