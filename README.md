@@ -15,4 +15,4 @@ The results show a high mapping rate (around 90%) and minimal cross-mapping, con
 **Objective:**  
 To demonstrate that dual RNA-seq analysis, through both sequential and combined approaches, is a valid strategy to study host plant - parasite plant interactions, while minimizing errors due to cross-mapping.
 
-More info can be found at [Article](doi.org/10.3389/fpls.2024.1483717)
+More info can be found at [doi.org/10.3389/fpls.2024.1483717](https://doi.org/10.3389/fpls.2024.1483717))
