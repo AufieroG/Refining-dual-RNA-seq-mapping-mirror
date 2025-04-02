@@ -10,9 +10,10 @@ More specifically, we merged host plant with parasitic plant transcriptomes and 
 - **Sequential Approach:** Reads are mapped in two steps, first to the host genome and then to the parasite genome (or vice versa).
 - **Combined Approach:** Reads are mapped to a concatenated genome (host + parasite) in a single step.
 
-The results show a high mapping rate (around 90%) and minimal cross-mapping, confirming the effectiveness of the dual RNA-seq approach in accurately separating transcripts from the two organisms within the same taxonomic kingdom. the evaluation metrics (i.e., precision, sensitivity, accuracy, and specificity) were all close to one.
-
 **Objective:**  
 To demonstrate that dual RNA-seq analysis, through both sequential and combined approaches, is a valid strategy to study host plant - parasite plant interactions, while minimizing errors due to cross-mapping.
+
+**Results:**  
+The results show a high mapping rate (around 90%) and minimal cross-mapping, confirming the effectiveness of the dual RNA-seq approach in accurately separating transcripts from the two organisms within the same taxonomic kingdom. the evaluation metrics (i.e., precision, sensitivity, accuracy, and specificity) were all close to one.
 
 More info can be found at [doi.org/10.3389/fpls.2024.1483717](https://doi.org/10.3389/fpls.2024.1483717)
