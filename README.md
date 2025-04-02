@@ -1,5 +1,5 @@
 # Refining-dual-RNA-seq-mapping
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 **Title:** Refining dual RNA-seq mapping: sequential and combined approaches in host-parasitic plant dynamics
 
 ![pipeline](https://github.com/user-attachments/assets/2d6c2500-47c3-437f-8758-ebb54edba68f)
