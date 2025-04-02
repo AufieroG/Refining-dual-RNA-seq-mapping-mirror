@@ -2,7 +2,7 @@
 
 1. **Quality control of Raw Reads:**
    - **Tool:** FastQC (v0.11.9)
-   - **Description:** Quality control checks on raw sequence data
+   - **Description:** Raw reads are checked to identify any problems such as poor base-call quality or the presence of adapters.
    - **Script:** `script/qualityControl.sh`
 
 2. **Pre-processing of Raw Reads:**
@@ -18,8 +18,8 @@
 4. **Mapping of Reads:**
    - **Tool:** STAR (version 2.5.2b)
    - **Description:** Mapping of filtered reads.
-     - **Sequential Approach:** First, reads are mapped to the host genome, then unmapped reads are mapped to the parasite genome (or vice versa).
-     - **Combined Approach:** Reads are mapped to a concatenated genome (host + parasite) in one single operation.
+     - **Sequential Approach:** First, reads are mapped onto the host genome, then unmapped reads are mapped onto the parasite genome (or vice versa).
+     - **Combined Approach:** Reads are mapped onto a concatenated genome (host + parasite) in one single operation.
    - **Script:** `script/mapping.sh`
 
 5. **Results Evaluation:**
