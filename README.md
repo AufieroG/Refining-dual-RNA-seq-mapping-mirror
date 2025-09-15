@@ -1,4 +1,4 @@
-> ⚠️ **Mirror Notice:** This repository is a mirror of [https://github.com/inDAGOverse/inDAGO](https://github.com/inDAGOverse/Refining-dual-RNA-seq-mapping).  
+⚠️ **Mirror Notice:** This repository is a mirror of [https://github.com/inDAGOverse/inDAGO](https://github.com/inDAGOverse/Refining-dual-RNA-seq-mapping).  
 > All development, issues, and pull requests should be made in the source repository.
 
 # Refining-dual-RNA-seq-mapping
